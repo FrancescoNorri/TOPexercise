@@ -1,0 +1,16 @@
+.uno {
+    background-color: black;
+    color: white;
+
+}
+
+.due {
+    background-color: yellow;
+
+}
+
+.uno,
+.due {
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif
+}
