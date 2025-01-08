@@ -8,14 +8,11 @@
     font-size: 36px;
 }
 
-#terzo {
-    font-size: 24px
+#quattro {
+    background-color: aquamarine;
+    font-weight: bold;
 }
 
-.quarto {
+.regola dim carattere {
     font-size: 24px;
-    font-weight: bold;
-    background-color: aquamarine;
-    
 }
- 
