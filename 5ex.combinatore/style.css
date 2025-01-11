@@ -1,0 +1,9 @@
+/*tutti i p dentro container utilizzeranno quella regola, si puo fare anche |div p|
+|div .text|.container p|*/
+.container p {
+    background-color: yellow;
+    color: red;
+    text-align: center;
+    font-size: 20px;
+}
+
